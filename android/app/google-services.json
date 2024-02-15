@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094360977056",
+    "project_id": "uploadingimages-ba9a5",
+    "storage_bucket": "uploadingimages-ba9a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094360977056:android:addad1dbf720ef97db03c5",
+        "android_client_info": {
+          "package_name": "com.example.uploading_images_to_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUbd5ODccpuvjPK4nFsx1osBbKmFBSPug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
